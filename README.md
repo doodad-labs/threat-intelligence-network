@@ -1,6 +1,6 @@
 # Threat Intelligence Network
 
-A collection of specialized tools from **DoodadLabs** designed to passively gather, analyze, and action security threats.
+A collection of specialised tools from **DoodadLabs** designed to passively gather, analyse, and action security threats.
 
 ## 🧩 Active Components
 
